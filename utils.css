@@ -1,0 +1,30 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search .btn2 {
+    margin: 0px 0px 0px 50px;
+    padding: 5px 10px;
+    background: var(--main-bg-color);
+    border: 2px solid white;
+    border-radius: 7px;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+}
+
+.my-2 {
+    /* inspired by bootstrap */
+    margin: 20px 0px;
+}
+
+.my-1 {
+    /* inspired by bootstrap */
+    margin: 5px 0px;
+}
+
+.text-center {
+    text-align: center;
+}
